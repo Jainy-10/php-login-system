@@ -1,3 +1,4 @@
+## Features
 A secure Registration and Login form.
 User-friendly interface.
 Session and cookies are also utilized to make a remember me functionality after a successful loigin.
